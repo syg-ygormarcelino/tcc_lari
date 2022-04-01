@@ -1,0 +1,1 @@
+<a href="../controller/logout.php">Sair</a>
